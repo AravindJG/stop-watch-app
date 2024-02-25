@@ -1,7 +1,9 @@
+import StopWatch from "./StopWatch";
+
 function App() {
   return (
     <div className="App">
-      hello
+      <StopWatch/>
     </div>
   );
 }
